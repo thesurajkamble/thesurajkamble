@@ -5,9 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/thesurajkamble" target="blank"><img src="https://img.shields.io/twitter/follow/thesurajkamble?logo=twitter&style=for-the-badge" alt="thesurajkamble" /></a> </p>
 
-- 🔭 I’m currently working on **Roadio**
-
-- 🌱 I’m currently learning **backend development and KMM**
+- 🔭 I’m currently working on **Roadio** An App for Road trip junkies. Everything about the road trip in one app. Communications, routing, SOS etc. 
 
 - 📫 How to reach me **thesurajkamble@gmail.com**
 
