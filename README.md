@@ -8,7 +8,7 @@ I’m a passionate **Android Developer** based in Bangalore Karnataka, India, wi
 
 ## 🚀 What I’m Working On
 
-* **[[Cozy Tracker](https://github.com/surajkamble/cozy-tracker)]**: An open-source Jetpack Compose library designed to track item visibility in LazyLists with precision and ease.
+* **[[Cozy Tracker](https://github.com/thesurajkamble/cozy-tracker)]**: An open-source Jetpack Compose library designed to track item visibility in LazyLists with precision and ease.
 
 ---
 
