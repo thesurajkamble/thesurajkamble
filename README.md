@@ -1,6 +1,6 @@
 # ⛩️ Konnichiwa, I'm Suraj Kamble
 
-### Software Engineer | Android Specialist | Aspiring Aviator
+### Software Engineer | < Mobile Engineer >
 
 I’m a passionate **Android Developer** based in Bangalore Karnataka, India, with over 4 years of experience building scalable mobile experiences. Currently, I'm deep-diving into the world of **Kotlin Multiplatform (KMP)** and crafting open-source tools that make developers' lives easier.
 
