@@ -18,7 +18,7 @@ I’m a passionate **Android Developer** based in Bangalore Karnataka, India, wi
 | :--- | :--- |
 | **Languages** | Kotlin, Java |
 | **Android** | Jetpack Compose, Clean Architecture, MVVM/MVI, Coroutines |
-| **Cross-Platform** | Compose Multiplatform (CMP) |
+| **Cross-Platform** | Compose Multiplatform (CMP) , Flutter |
 
 ---
 
